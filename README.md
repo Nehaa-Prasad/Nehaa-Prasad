@@ -2,8 +2,7 @@
 
 🎓 3rd Year Information Science Engineering Student  
 🌱 Learning new tech & building practical apps 
-💡 Passionate about tech, data, and solving real-world problems through code.
-🛠️ Building projects that combine logic & creativity
+💡 Passionate about tech, data, and solving real-world problems through code
 
 📌 Projects  
 - 🤖 **ML Mini Project** – Built a practical machine learning model using Python  
