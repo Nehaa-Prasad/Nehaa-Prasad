@@ -2,6 +2,7 @@
 
 🎓 3rd Year Information Science Engineering Student  
 🌱 Learning new tech & building practical apps 
+🛠️ Building projects that combine logic & creativity
 💡 Passionate about tech, data, and solving real-world problems through code
 
 📌 Projects  
