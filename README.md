@@ -1,16 +1,16 @@
-👋 Hi, I'm Nehaa S. Prasad
-💻 Aspiring Software Engineer | Python & Web Development | ML Enthusiast
-🚀 3rd Year ISE Student | Building practical apps & solving real-world problems
-🌱 Currently exploring Full Stack Development and Machine Learning
+👋 Hi, I'm Nehaa S. Prasad  
+💻 Aspiring Software Engineer | Python & Web Development | ML Enthusiast  
+🚀 3rd Year ISE Student | Building practical apps & solving real-world problems  
+🌱 Currently exploring Full Stack Development and Machine Learning  
 
-📌 Featured Projects
--🌾 Agri Direct (Django) – Farmer-to-customer crop listing platform
--🎬 Movie Recommender (Python ML) – Suggests movies using content-based filtering
-🔗 Explore my repositories to see my work!
+### 📌 Featured Projects
+🌾 **Agri Direct (Django)** – Farmer-to-customer crop listing platform  
+🎬 **Movie Recommender (Python ML)** – Suggests movies using content-based filtering   
 
----
+🔗 Explore my repositories to see my work!  
 
-🧩 Always exploring, always evolving. Thanks for stopping by! 
+🛠 Always exploring, always evolving. Thanks for stopping by!
+
 
 
 <!---
