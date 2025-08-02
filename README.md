@@ -6,7 +6,6 @@
 ### 📌 Featured Projects
 🌾 **Agri Direct (Django)** – Farmer-to-customer crop listing platform  
 🎬 **Movie Recommender (Python ML)** – Suggests movies using content-based filtering   
-
 🔗 Explore my repositories to see my work!  
 
 🛠 Always exploring, always evolving. Thanks for stopping by!
