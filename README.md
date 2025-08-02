@@ -1,17 +1,12 @@
-👋 Hi, I'm Nehaa S Prasad  
+👋 Hi, I'm Nehaa S. Prasad
+💻 Aspiring Software Engineer | Python & Web Development | ML Enthusiast
+🚀 3rd Year ISE Student | Building practical apps & solving real-world problems
+🌱 Currently exploring Full Stack Development and Machine Learning
 
-🎓 3rd Year Information Science Engineering Student  
-🌱 Learning new tech & building practical apps 
-🛠️ Building projects that combine logic & creativity
-💡 Passionate about tech, data, and solving real-world problems through code
-
-📌 Projects  
-- 🤖 **ML Mini Project** – Built a practical machine learning model using Python  
-- 📈 **Power BI Dashboard** – Visualized and analyzed real-world data for insights
-- 🌾 **Agri Direct** – A web platform that connects farmers directly with customers for seamless crop listing and purchase.
-
-💻 Tech Stack  
-Python | Machine Learning | Power BI | HTML/CSS | JavaScript | Git
+📌 Featured Projects
+🌾 Agri Direct (Django) – Farmer-to-customer crop listing platform
+🎬 Movie Recommender (Python ML) – Suggests movies using content-based filtering
+🔗 Explore my repositories to see my work!
 
 ---
 
