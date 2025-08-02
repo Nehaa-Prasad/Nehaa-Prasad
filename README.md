@@ -4,8 +4,8 @@
 🌱 Currently exploring Full Stack Development and Machine Learning
 
 📌 Featured Projects
-🌾 Agri Direct (Django) – Farmer-to-customer crop listing platform
-🎬 Movie Recommender (Python ML) – Suggests movies using content-based filtering
+-🌾 Agri Direct (Django) – Farmer-to-customer crop listing platform
+-🎬 Movie Recommender (Python ML) – Suggests movies using content-based filtering
 🔗 Explore my repositories to see my work!
 
 ---
