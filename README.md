@@ -1,6 +1,6 @@
 👋 Hi, I'm Nehaa S. Prasad  
 💻 Aspiring Software Engineer | Python & Web Development | ML Enthusiast  
-🚀 3rd Year ISE Student | Building practical apps & solving real-world problems  
+🚀 4th Year ISE Student | Building practical apps & solving real-world problems  
 🌱 Currently exploring Full Stack Development and Machine Learning  
 
 ### 📌 Featured Projects
