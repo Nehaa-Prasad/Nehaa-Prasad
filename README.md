@@ -4,7 +4,7 @@
 🌱 Currently exploring Full Stack Development and Machine Learning  
 
 ### 📌 Featured Projects
-🩺HealthMate – A Multi-Agent AI Health Monitoring System for Elderly People, focuses on monitoring health parameters and providing intelligent assistance through AI agents.
+🩺**HealthMate** – A Multi-Agent AI Health Monitoring System for Elderly People, focuses on monitoring health parameters and providing intelligent assistance through AI agents
 🌾 **Agri Direct (Django)** – Farmer-to-customer crop listing platform  
 🎬 **Movie Recommender (Python ML)** – Suggests movies using content-based filtering   
 🔗 Explore my repositories to see my work!  
