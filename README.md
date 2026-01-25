@@ -1,15 +1,18 @@
-👋 Hi, I'm Nehaa .S. Prasad  
+# 👋 Hi, I'm Nehaa S. Prasad  
+
 💻 Aspiring Software Engineer | Python & Web Development | ML Enthusiast  
-🚀 4th Year ISE Student | Building practical apps & solving real-world problems  
+🚀 4th Year ISE Student | Building practical applications & solving real-world problems  
 🌱 Currently exploring Full Stack Development and Machine Learning  
 
-### 📌 Featured Projects
-🩺**HealthMate** – A Multi-Agent AI Health Monitoring System for Elderly People, focuses on monitoring health parameters and providing intelligent assistance through AI agents
-🌾 **Agri Direct (Django)** – Farmer-to-customer crop listing platform  
-🎬 **Movie Recommender (Python ML)** – Suggests movies using content-based filtering   
-🔗 Explore my repositories to see my work!  
+## 📌 Featured Projects  
 
-🛠 Always exploring, always evolving. Thanks for stopping by!
+🩺 **HealthMate** – Multi-Agent AI system for monitoring elderly health and providing intelligent assistance  
+🌾 **Agri Direct (Django)** – Farmer-to-customer crop listing web platform  
+🎬 **Movie Recommender (Python ML)** – Content-based movie recommendation system  
+
+🔗 Explore my repositories to see my work!    
+
+Always exploring, always evolving. Thanks for stopping by!
 
 
 
