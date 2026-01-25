@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nehaa S. Prasad  
+# 👋 Hi, I'm Nehaa S Prasad  
 
 💻 Aspiring Software Engineer | Python & Web Development | ML Enthusiast  
 🚀 4th Year ISE Student | Building practical applications & solving real-world problems  
